@@ -1,6 +1,6 @@
 # landingPageChallenge
 
-link: https://fmlandingpage.github.io
+link: https://motagabriel.github.io/fmlandingpage.github.io/
 
 ## 🚀 O desafio consistia em fazer uma landing Page, utilizando css puro, para desktop e mobile
 
